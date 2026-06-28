@@ -19,7 +19,7 @@ My background is enterprise technology delivery, not model training. I focus on 
 
 ### AI Governance Portfolio
 
-Repository: [Allen1980/portfolio-ai-governance](https://github.com/Allen1980/portfolio-ai-governance)
+Source repository: currently private.
 
 A public reference portfolio for AI governance, agent platform controls, architecture evidence, control matrix thinking, mock API contracts, and sanitized delivery artifacts.
 
@@ -28,6 +28,8 @@ Public site: [portfolio-ai-governance.vercel.app](https://portfolio-ai-governanc
 ### Agentic Assurance Review Sandbox
 
 Repository: `Allen1980/agentic-assurance-sandbox`
+
+Private while public-readiness, risk scan, and documentation boundaries are still being reviewed.
 
 A private, low-cost PoC sandbox for demonstrating the control loop:
 
@@ -53,6 +55,19 @@ Current scope:
 - Release checks before push or deployment
 - No customer data, credentials, or internal system details in public artifacts
 
+## Current build status
+
+| Area | Status |
+|---|---|
+| Profile README | Public |
+| AI Governance Portfolio | Public site available |
+| Portfolio source repository | Private |
+| Agentic Assurance Sandbox | Private |
+| Local Mock Evidence Workflow | Complete |
+| AWS Runtime | Not deployed |
+| External API Integrations | Not connected |
+| Production Claim | None |
+
 ## What this profile is
 
 This profile is a career proof-of-work surface for enterprise AI delivery and governance thinking.
@@ -73,4 +88,3 @@ It is meant to help reviewers inspect how I structure AI delivery work: planning
 - Mock before real API
 - Human decides; AI does not self-approve
 - Stop on secret risk, cost risk, scope creep, or unclear repo path
-
